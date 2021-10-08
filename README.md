@@ -1,2 +1,6 @@
 # CRYPT-AUTH
-Simple PHP Auth system in PHP. Password Hashing With Customizable Salt. Made from scratch by me 
+Simple PHP Auth system in PHP. Made from scratch by me 
+Features of the AUTH:-
+-Secure statements ( no chance of SQL injections )
+-Password Hashing With Customizable Salt
+-Session logging maybe bugged ( easy fix )
